@@ -93,7 +93,7 @@ namespace harita
 
         private void yol_Click(object sender, EventArgs e)
         {
-            GoogleMapProvider.Instance.ApiKey = "AIzaSyA6ndV-9Dz8ylPrpLFBrcZOOZJuUboIX5E";
+            GoogleMapProvider.Instance.ApiKey = "APİ_KEY";
             /*
             var rota = GoogleMapProvider.Instance.GetRoute(points[0], points[1], false, false, 14);
             var r = new GMapRoute(rota.Points, "Benim Rotam");
